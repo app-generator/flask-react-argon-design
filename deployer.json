@@ -1,0 +1,5 @@
+{
+    "name": "fullstack-react-argon-design",
+    "type": "fullstack",
+    "dirs": "api-server-flask, react-ui"
+}
